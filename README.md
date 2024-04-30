@@ -1,2 +1,2 @@
-# TripPlannerFE
-The frontend of TripPlanner project
+# TravelPlannerFE
+The frontend of TravelPlanner project
